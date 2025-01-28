@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-file_path = r"dataset\loan_train.csv"
+file_path = r"dataset/loan_train.csv"  # Or with double slashes r"dataset\\loan_train.csv"
 df = pd.read_csv(file_path)
 
 # Preprocessing
