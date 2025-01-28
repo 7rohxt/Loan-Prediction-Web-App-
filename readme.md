@@ -1,4 +1,4 @@
-Loan App Prediction
+**Loan App Prediction**
 
 Overview-
 The project aims a building a machine learning model for predicting the status of the loan using kaggle dataset and building an interactive dashboard using streamlit.
