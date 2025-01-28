@@ -33,7 +33,17 @@ A sample containing 5 rows of the dataset is displayed below:
 2. Navigate to the project directory:
    ```bash
    cd Loan-Prediction-Web-App-
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Streamlit app
+   ```bash
+   streamlit run app1.py
+5. Open the browser and navigate to the provided local URL to interact with the dashboard.
 
+---
+
+### Output Preview
 
 
 
