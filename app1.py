@@ -37,7 +37,7 @@ model = tree.DecisionTreeClassifier(max_depth=5)
 model.fit(X_train, y_train)
 
 # Streamlit app
-st.title("Loan Prediction Web Application")
+st.title("Housing Loan Prediction Web Application")
 st.sidebar.header("User Parameters")
 
 # Function to get user input
