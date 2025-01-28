@@ -45,5 +45,5 @@ A sample containing 5 rows of the dataset is displayed below:
 
 ### Output Preview
 
-
+![Dataset Sample](https://github.com/7rohxt/Loan-Prediction-Web-App-/blob/eb3568ce0c68f5f027dcedcd10a51933e194d34c/Screenshot%202025-01-28%20161732.png)
 
