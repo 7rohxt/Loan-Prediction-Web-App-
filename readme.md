@@ -16,7 +16,6 @@ A sample containing 5 rows of the dataset is displayed below:
 ## Features  
 1. Predict loan approval status based on various features like gender, income, loan amount, etc.  
 2. User-friendly interactive dashboard created using Streamlit.  
-3. GitHub integration for proper version control.  
 
 ---
 
